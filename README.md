@@ -12,6 +12,7 @@ Open Your browser put inside browser “http://localhost/onlinecourse”
 
 
 Login Details for admin 
+
 Username: admin
 Password: Test@123
 
