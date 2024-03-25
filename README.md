@@ -8,7 +8,7 @@ How to Run Online Course Registration Using PHP and MySQL
 
 1. Open phpmyadmin
 2. Create Database onlinecourse
-3. Import database onlinecourse.sql or c&p (available inside zip package)
+3. Import database onlinecourse.sql or c&p in sql query (available inside zip package)
 4. place onlinecourse into /C:/wamp/www
 5. Open Your browser put inside browser “http://localhost/onlinecourse” 
 
